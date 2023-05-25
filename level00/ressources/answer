@@ -1,1 +1,5 @@
-
+Step 1: run "find / -user flag00 -group flag00 2>/dev/null"
+Step 2: run "cat /usr/sbin/john"
+Step 3: copy the string "cdiiddwpgswtgt" and paste it in dcode.fr
+Step 4: copy the string "nottoohardhere", run "su flag00" and paste the string
+Step 5: run "getflag"

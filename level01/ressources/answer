@@ -1,1 +1,7 @@
-
+Step 1: run "cat /etc/passwd"
+Step 2: copy the flag01 password "42hDRfypTqqnw"
+Step 3: install john the ripper
+Step 4: paste the string in the todecrypt file
+Step 5: run "./run/john --show ../todecrypt"
+Step 6: copy the output "abcdefg", launch "su flag01" and paste it 
+Step 7: run "getflag"

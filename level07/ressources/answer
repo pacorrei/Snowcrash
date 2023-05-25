@@ -1,1 +1,2 @@
-
+Step 1: run "export LOGNAME=\`getflag\`"
+Step 2: run "./level07"
