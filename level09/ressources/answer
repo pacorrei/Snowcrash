@@ -1,1 +1,3 @@
-//TODO take the programm 
+Step 1: create a c file and paste main.c in it
+Step 2: compile your file with gcc
+Step 2: run "./a.out token" 
