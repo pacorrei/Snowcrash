@@ -1,3 +1,5 @@
-Step 1: create a c file and paste main.c in it
+Step 1: create a c file in /tmp and paste main.c in it
 Step 2: compile your file with gcc
-Step 2: run "./a.out token" 
+Step 3: run "cd"
+Step 4: run "/tmp/a.out $(cat token)"
+Step 5: copy the string and run "getflag"

@@ -1,6 +1,7 @@
-Step 1: run "scp -p 4242 level02@"snowcrash_ip":./level02.pcap
+Step 1: run "scp -P 4242 level02@snowcrash_ip:./level02.pcap ."
 Step 2: install Wireshark
-Step 3: analyze the file level02.pcap with it
-Step 4: from the trame 43 analyze the next trame and you obtain "ft_waNDReL0L"
-Step 5: run "su flag02" and enter the string
-Step 6: run "getflag"
+Step 3: run "chmod 777 level02.pcap"
+Step 4: analyze the file level02.pcap with it
+Step 5: from the trame 43 analyze the next trame and you obtain "ft_waNDReL0L"
+Step 6: run "su flag02" and enter the string
+Step 7: run "getflag"
